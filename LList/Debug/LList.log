@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\kkorz\source\repos\LList\main.c(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kkorz\source\repos\LList\main.c(54,2): warning C4047: ==: "dtype" отличается по уровням косвенного обращения от "void *"
+C:\Users\kkorz\source\repos\LList\main.c(98,22): warning C4020: Foreach: слишком много фактических параметров
+  LList.vcxproj -> C:\Users\kkorz\source\repos\LList\Debug\LList.exe
