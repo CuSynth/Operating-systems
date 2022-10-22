@@ -1,2 +1,0 @@
-C:\Users\kkorz\source\repos\LList\Debug\LList.exe
-C:\Users\kkorz\source\repos\LList\Debug\LList.pdb

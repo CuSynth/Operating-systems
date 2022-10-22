@@ -1,9 +1,0 @@
-			// while (size = read(pipes[0], buff, BUFF_SZ)) {
-			// 	if (errno != EINTR) {
-			// 		perror("Read err");
-			// 		return -1;
-			// 	}
-			// }
-
-
-            

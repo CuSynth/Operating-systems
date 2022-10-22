@@ -23,11 +23,6 @@ bool lockAndRead(int fd) {
 	file_info.l_start = 0;
 	file_info.l_len = 0;
 
-
-
-
-
-
 	int returned = fcntl(fd, F_GETLK, &file_info);
 	if (returned == -1)
 	{
